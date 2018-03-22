@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "747635390611",
+    "firebase_url": "https://buzz-6ecae.firebaseio.com",
+    "project_id": "buzz-6ecae",
+    "storage_bucket": "buzz-6ecae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747635390611:android:fb511a0f42e24fb8",
+        "android_client_info": {
+          "package_name": "exodiasolutions.buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747635390611-ao7mln36larmrh73o6ia4fj388a47t1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg_VqqAqS_sz8XeIsm-9X581sllWyn8II"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
