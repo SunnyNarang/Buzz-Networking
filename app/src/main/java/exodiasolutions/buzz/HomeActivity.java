@@ -64,7 +64,6 @@ public class HomeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Fresco.initialize(this);
-
         setContentView(R.layout.activity_home);
         mRefreshLayout =  findViewById(R.id.refresh_layout);
         getSupportActionBar().hide();
